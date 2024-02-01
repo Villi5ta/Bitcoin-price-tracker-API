@@ -1,0 +1,12 @@
+.bitcoin-card {
+    margin: 10px;
+    color: rgb(0, 0, 156);
+}
+
+.golden-card {
+    border: 5px solid gold;
+}
+
+.silver-card {
+    border: 5px solid silver;
+}
